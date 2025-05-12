@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 ### 🚀 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayOC29&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayOC29&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JayOC29&theme=onedark" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ### 🔥 Streak de Atividades
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayOC29&theme=tokyonight" />
 </p>
 
 ---
