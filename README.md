@@ -94,4 +94,3 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">Thanks for visiting my profile! 😊</p>
-****
