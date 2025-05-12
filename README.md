@@ -13,26 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá, eu sou o João Castro 👋</h1>
+<h1 align="center">Hi there, I'm João Castro 👋</h1>
 <p align="center">
-  Desenvolvedor de software focado em frontend e apaixonado por aprender e resolver problemas.
+  A frontend-focused software developer passionate about learning and solving real-world problems.
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 🎓 Recém-licenciado em Engenharia Informática, com especialização em desenvolvimento de aplicações, pelo ISEC.
-- 🌍 Erasmus+ na Polónia, experiência internacional em tecnologia e adaptação cultural.
-- 💻 Experiência prática com JavaScrip e React em ambiente de estágio curricular.
-- 🤝 Valorizo o trabalho em equipa, comunicação e aprendizagem contínua.
-- 📍 Localização: Vila Nova de Famalicão, Portugal
-- 📫 Contacto: joaopedrosantoscastro29@gmail.com  
+- 🎓 Recently graduated in **Computer Engineering** with a focus on application development (ISEC – Coimbra).
+- 🌍 Erasmus+ experience in **Poland**, building international adaptability and tech exposure.
+- 💻 Hands-on experience with **JavaScript** and **React** through a frontend internship.
+- 🤝 Teamwork-oriented, strong communicator, and continuously learning.
+- 📍 Based in Vila Nova de Famalicão, Portugal  
+- 📫 Contact: joaopedrosantoscastro29@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-castro-482798255/)
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### 💻 Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Estatísticas do GitHub
+### 🚀 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayOC29&show_icons=true&theme=tokyonight" />
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 Conquistas
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JayOC29&theme=onedark" />
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔥 Streak de Atividades
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayOC29&theme=tokyonight" />
@@ -76,11 +76,22 @@ Here are some ideas to get you started:
 
 ---
 
-### ✨ Curiosidades
-- Gosto por Gaming
-- Gosto por desporto, séries e filmes
-- Interesse constante em hardware e novas tecnologias
+### 📈 3D Contribution Graph
+
+<p align="center">
+  <a href="https://github-contributions.vercel.app/?username=JayOC29">
+    <img src="https://github-contributions.vercel.app/api?username=JayOC29" />
+  </a>
+</p>
 
 ---
 
-<p align="center">Obrigado por visitar o meu perfil! 😊</p>
+### ✨ Fun Facts
+
+- Passionate about sports, gaming, series, and movies.
+- Love tinkering with hardware and exploring emerging tech.
+
+---
+
+<p align="center">Thanks for visiting my profile! 😊</p>
+****
