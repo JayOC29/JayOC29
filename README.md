@@ -77,12 +77,17 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 3D Contribution Graph
-
+<!--
 <p align="center">
   <a href="https://github-contributions.vercel.app/?username=JayOC29">
     <img src="https://github-contributions.vercel.app/api?username=JayOC29" />
   </a>
 </p>
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayOC29/profile-3d-contrib/main/profile-night-rainbow.svg" />
+</p>
+
 
 ---
 
