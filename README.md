@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </p>
 -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/JayOC29/profile-3d-contrib/main/profile-night-rainbow.svg](https://raw.githubusercontent.com/JayOC29/JayOC29/d6bf798afdaa3dc7c2d38c8e1df111f5137ff288/profile-3d-contrib/profile-night-green.svg)" />
+  <img src="https://raw.githubusercontent.com/JayOC29/JayOC29/d6bf798afdaa3dc7c2d38c8e1df111f5137ff288/profile-3d-contrib/profile-night-green.svg" />
 </p>
 ---
 
