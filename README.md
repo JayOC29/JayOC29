@@ -85,8 +85,9 @@ Here are some ideas to get you started:
 </p>
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayOC29/JayOC29/d6bf798afdaa3dc7c2d38c8e1df111f5137ff288/profile-3d-contrib/profile-night-green.svg" />
+  <img src="https://raw.githubusercontent.com/JayOC29/JayOC29/refs/heads/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
+
 ---
 
 ### ✨ Fun Facts
