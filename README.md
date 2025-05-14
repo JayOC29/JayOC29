@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 - Passionate about sports, gaming, series, and movies.
 - Love tinkering with hardware and exploring emerging tech.
 
----
+
 
 <p align="center">Thanks for visiting my profile! 😊</p>
